@@ -1,0 +1,1 @@
+java -jar ../dist/mp1.jar > ../data/mp1out.txt

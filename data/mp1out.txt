@@ -1,0 +1,29 @@
+Tablet{manufacturer=Google, model=Nexus7 8GB, displaySize=7.0", memory=8GB, hasWifi=true, hasMobileCarrier=false, weight=0.75lbs, cost=$199.0}
+Tablet{manufacturer=Apple, model=iPad 32GB, displaySize=9.7", memory=32GB, hasWifi=true, hasMobileCarrier=false, weight=1.44lbs, cost=$599.99}
+Tablet{manufacturer=Apple, model=iPad 16GB, displaySize=9.7", memory=16GB, hasWifi=true, hasMobileCarrier=false, weight=1.44lbs, cost=$499.99}
+Tablet{manufacturer=Google, model=Nexus7 8GB, displaySize=7.0", memory=8GB, hasWifi=true, hasMobileCarrier=false, weight=0.75lbs, cost=$199.0}
+Tablet{manufacturer=Samsung, model=Galaxy Tab 2, displaySize=10.1", memory=16GB, hasWifi=true, hasMobileCarrier=false, weight=1.28lbs, cost=$399.99}
+Tablet{manufacturer=Samsung, model=Galaxy Tab 2, displaySize=10.1", memory=16GB, hasWifi=true, hasMobileCarrier=false, weight=1.28lbs, cost=$399.99}
+Tablet{manufacturer=Google, model=Nexus7 16GB, displaySize=7.0", memory=16GB, hasWifi=true, hasMobileCarrier=false, weight=0.75lbs, cost=$249.0}
+Tablet{manufacturer=Google, model=Nexus7, displaySize=7.0", memory=8GB, hasWifi=true, hasMobileCarrier=false, weight=0.75lbs, cost=$199.0}
+Tablet{manufacturer=Apple, model=iPad 16GB+3G, displaySize=9.7", memory=16GB, hasWifi=true, hasMobileCarrier=true, weight=1.46lbs, cost=$629.99}
+Tablet{manufacturer=Samsung, model=Galaxy Tab 7.0, displaySize=7.0", memory=2GB, hasWifi=true, hasMobileCarrier=true, weight=0.85lbs, cost=$199.99}
+Tablet{manufacturer=Samsung, model=Galaxy Note 16 GB, displaySize=10.1", memory=16GB, hasWifi=true, hasMobileCarrier=false, weight=1.31lbs, cost=$499.99}
+Tablet{manufacturer=Google, model=Nexus7, displaySize=7.0", memory=8GB, hasWifi=true, hasMobileCarrier=false, weight=0.75lbs, cost=$199.0}
+Tablet{manufacturer=Samsung, model=Galaxy Note 16 GB, displaySize=10.1", memory=16GB, hasWifi=true, hasMobileCarrier=false, weight=1.31lbs, cost=$499.99}
+Tablet{manufacturer=Google, model=Nexus7 16GB, displaySize=7.0", memory=16GB, hasWifi=true, hasMobileCarrier=false, weight=0.75lbs, cost=$249.0}
+Tablet{manufacturer=Google, model=Nexus7, displaySize=7.0", memory=8GB, hasWifi=true, hasMobileCarrier=false, weight=0.75lbs, cost=$199.0}
+Tablet{manufacturer=Google, model=Nexus7 16GB, displaySize=7.0", memory=16GB, hasWifi=true, hasMobileCarrier=false, weight=0.75lbs, cost=$249.0}
+Tablet{manufacturer=Apple, model=iPad 16GB, displaySize=9.7", memory=16GB, hasWifi=true, hasMobileCarrier=false, weight=1.44lbs, cost=$499.99}
+Tablet{manufacturer=Google, model=Nexus7 16GB, displaySize=7.0", memory=16GB, hasWifi=true, hasMobileCarrier=false, weight=0.75lbs, cost=$249.0}
+Tablet{manufacturer=Apple, model=iPad 64GB, displaySize=9.7", memory=64GB, hasWifi=true, hasMobileCarrier=false, weight=1.44lbs, cost=$699.99}
+Tablet{manufacturer=Samsung, model=Galaxy Note 16 GB, displaySize=10.1", memory=16GB, hasWifi=true, hasMobileCarrier=false, weight=1.31lbs, cost=$499.99}
+
+Of the 20 selected, the largest display is: 10.1"
+     The lowest cost: $199.0
+     The lightest weight: 0.75lbs.
+
+Total tablets: 20
+iPads selected: 5
+Galaxies selected: 6
+Nexuses selected: 9
